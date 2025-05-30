@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFCParking</string>
+    <string name="aid_group_description">Parking App</string>
+</resources>
